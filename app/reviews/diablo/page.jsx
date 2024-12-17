@@ -1,0 +1,8 @@
+export default function DiabloPage(){
+    return(
+        <>
+            <h1>Diablo 4</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis amet harum nesciunt rerum labore minima enim impedit repellendus laborum rem itaque voluptatem vero qui illo excepturi illum quis in eveniet corrupti, recusandae accusamus ut? Ad deleniti explicabo eius sequi commodi similique quaerat quod rerum earum accusantium reprehenderit laboriosam ratione modi, rem, error libero veritatis inventore quisquam possimus delectus? Voluptate, odio magni ratione perspiciatis aliquam aperiam magnam dignissimos tenetur facere quos alias quis officiis beatae, nesciunt quia delectus expedita. Facilis dicta nesciunt doloremque quae nostrum voluptates libero sequi debitis repellat eveniet. Iste architecto, mollitia excepturi impedit provident nemo libero quam repellat exercitationem ullam nesciunt corrupti numquam ipsa vero adipisci facilis ipsam qui autem illum est animi corporis et? Eos ad explicabo perspiciatis optio doloremque fugit accusamus repudiandae odit dolore voluptas eius deserunt molestias placeat blanditiis nostrum necessitatibus aut ut temporibus architecto at laborum, sit sint? Aliquid eos harum natus, repudiandae quaerat similique sapiente quia? Optio amet excepturi impedit, recusandae magni enim soluta dicta ullam nam sint. Et soluta eius earum velit reprehenderit error nostrum, illo officiis, eum in labore deleniti optio eaque voluptatum dicta, iusto aut amet possimus quae culpa deserunt fugiat itaque ducimus ipsa. Debitis amet animi adipisci eligendi sapiente.</p>
+        </>
+    )
+}
